@@ -42,3 +42,6 @@ h1{color: rgb(212, 31, 70); }
 .origami h3{
     opacity: 0;
 }
+.origami:hover img{
+    opacity: 0.45;
+}
